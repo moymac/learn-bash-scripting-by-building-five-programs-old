@@ -148,3 +148,13 @@ chmod -x bingo.sh
 chmod +x bingo.sh
 ./bingo.sh
 printenv
+echo LANG
+echo LANGJ
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+echo LANG
+ECHO $lang
+ECHO $LANG
+echo $LAN
+echo $LANG
