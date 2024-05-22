@@ -103,3 +103,7 @@ echo $?
 [[ 10 -eq 5 ]]
 __vsc_prompt_cmd_original
 [[ 10 -ne 5 ]]
+bad_command
+bad_command
+bad_command
+bad_command
