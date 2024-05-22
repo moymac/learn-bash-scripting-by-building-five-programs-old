@@ -178,3 +178,4 @@ echo $(( I + 4 ))
 echo 15
 echo $I
 J=$(( I - 6 ))
+echo $J
