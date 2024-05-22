@@ -160,3 +160,5 @@ echo $LAN
 echo $LANG
 declare -p -p
 declare -p
+__vsc_prompt_cmd_original
+echo $RANDOM
