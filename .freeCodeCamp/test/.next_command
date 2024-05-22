@@ -169,3 +169,5 @@ I=0
 echo $I
 (( I++ ))
 echo $I
+HELP LET
+help let
