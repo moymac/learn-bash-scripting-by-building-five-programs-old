@@ -129,3 +129,4 @@ help [[ expression ]]
 [[ -x countdown.sh || 5 -le 4 ]]
 ./countdown.sh 1
 ./countdown.sh -1
+help
