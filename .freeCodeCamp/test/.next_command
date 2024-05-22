@@ -164,3 +164,4 @@ __vsc_prompt_cmd_original
 echo $RANDOM
 ./bingo.sh
 ./bingo.sh
+./bingo.sh
