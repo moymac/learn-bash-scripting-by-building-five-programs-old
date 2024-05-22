@@ -257,3 +257,4 @@ type echo
 type read
 type if
 type then
+type bash
