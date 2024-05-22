@@ -132,3 +132,4 @@ help [[ expression ]]
 help
 ./countdown.sh -10
 ./countdown.sh 10
+help
