@@ -242,3 +242,4 @@ echo $VAR
 [[ "hello world" == $VAR ]]
 [[ $VAR == "hello world" ]]
 [[ $VAR =~ \?$ ]]
+[[ "test?" =~ \?$ ]]
