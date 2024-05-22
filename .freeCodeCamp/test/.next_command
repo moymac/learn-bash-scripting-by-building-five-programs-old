@@ -236,3 +236,4 @@ __vsc_prompt_cmd_original
 [[ -n "hello world"^h ]]
 __vsc_prompt_cmd_original
 [[ "hello world" =~ ^h ]]
+[[ "hello world" =~ ^h.+d$ ]]
