@@ -158,3 +158,5 @@ ECHO $lang
 ECHO $LANG
 echo $LAN
 echo $LANG
+declare -p -p
+declare -p
