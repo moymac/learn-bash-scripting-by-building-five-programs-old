@@ -146,3 +146,4 @@ __vsc_prompt_cmd_original
 touch bingo.sh
 chmod -x bingo.sh
 chmod +x bingo.sh
+./bingo.sh
