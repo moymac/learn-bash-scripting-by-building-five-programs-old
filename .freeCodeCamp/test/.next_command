@@ -52,3 +52,5 @@ __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 echo hello bash
 touch questionnaire.sh
+echo hello questionnaire >> questionnaire.sh
+more questionnaire.sh
