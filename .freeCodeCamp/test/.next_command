@@ -225,3 +225,5 @@ help until
 help until
 ./fortune.sh
 help [[ expression ]]
+[[ hello -eq hello ]]
+[[ hello == hello ]]
