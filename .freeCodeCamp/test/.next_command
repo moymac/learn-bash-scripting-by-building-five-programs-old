@@ -227,3 +227,4 @@ help until
 help [[ expression ]]
 [[ hello -eq hello ]]
 [[ hello == hello ]]
+[[ hello == world ]]
