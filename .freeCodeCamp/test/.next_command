@@ -173,3 +173,4 @@ HELP LET
 help let
 (( I += 10 ))
 echo $I
+$(( I + 4 ))
